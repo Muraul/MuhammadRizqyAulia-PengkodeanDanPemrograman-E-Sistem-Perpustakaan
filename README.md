@@ -4,6 +4,8 @@ Nama: Muhammad Rizqy Aulia
 
 NIM: 12030122140075
 
+Kelas: Pengkodean dan Pemrograman - E
+
 Web Perpustakaan clone dari: 
 
 (https://github.com/afifsirait/Sistem-Informasi-Perpustakaan-Menggunakan-PHP-MySql)
