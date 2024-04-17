@@ -137,9 +137,11 @@ Laporan Peminjaman Buku ~> Cetak Semua Buku.
 
 
 
-**PROGRAM TELAH DI MODIFIKASI**
+**PROGRAM SETELAH DI MODIFIKASI**
 
 - Halaman Login (Book List).
+
+*Saya ubah bagian Tulisan dan Warna Headernya, lalu juga List Bukunya.
 ![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/f0ef2f5c-fb0e-4064-8aba-69d657f4e28d)
 ![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/eda6209d-1c6d-49e3-b496-f072b8a08076)
 
