@@ -60,6 +60,8 @@ Password: admin
 ![Screenshot (120)](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/f4d258c1-a3e8-4260-8f01-73003a4c3a8b)
 (Slide 1) ~> Tambah Data Pinjaman Buku.
 ![Screenshot (121)](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/2d312fe5-2696-4e63-994d-50d68eb0dd45)
+(Slide 1) ~> Form Tambah Data Buku
+![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/19b6b861-09e1-499b-ba7a-9ae71cde86bd)
 
 (Slide 2)
 ![Screenshot (118)](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/42e5643f-d051-4f3e-b3df-308018ede68d)
@@ -117,7 +119,7 @@ Laporan Peminjaman Buku ~> Cetak Semua Buku.
 ![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/b214677a-eeff-4ab4-a693-fd90fcd1804a)
 
  Kelola User ~> Update Data User.
- ![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/621036f3-5468-44a6-9307-cc440ed0d42a)
+![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/d7b9f435-606c-4494-af81-b88a74e47d57)
 
 
 - About.
