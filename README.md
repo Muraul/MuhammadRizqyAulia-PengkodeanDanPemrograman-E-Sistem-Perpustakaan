@@ -234,4 +234,7 @@ Manage Users ~> Update User Information.
 - Re-entering the website while maintaining the previous login session.
 ![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/f915e20b-2096-4d22-9a88-a3a8bb3e3a98)
 
+
   
+**ERD (Entity Relationship Diagram)**
+![ERD](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/b962a8da-361a-470a-9587-ab984c25d2a7)
