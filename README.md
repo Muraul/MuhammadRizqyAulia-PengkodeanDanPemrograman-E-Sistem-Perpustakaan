@@ -141,12 +141,14 @@ Laporan Peminjaman Buku ~> Cetak Semua Buku.
 
 - Halaman Login (Book List).
 
-*Saya ubah bagian Tulisan dan Warna Headernya, lalu juga List Bukunya.
+*Saya ubah bagian Tulisan dan Warna bagian Header dan Bawahnya, lalu juga List Bukunya juga Saya ubah semua.
 ![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/f0ef2f5c-fb0e-4064-8aba-69d657f4e28d)
 ![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/eda6209d-1c6d-49e3-b496-f072b8a08076)
 
 
 - Login Berhasil/Sukses (Home).
+
+*Saya ubah Lambang Perpustakaan sebelumnya, lalu bagian deskripsi nya juga menjadi bahasa inggris.
 ![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/63ff8278-99df-42c3-b389-96dac50dd8c0)
 
 
