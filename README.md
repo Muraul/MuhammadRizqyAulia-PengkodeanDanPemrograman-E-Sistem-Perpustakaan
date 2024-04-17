@@ -1,4 +1,4 @@
-#TUGAS PEMROGRAMAN DAN PENGKODEAN
+**TUGAS PENGKODEAN DAN PEMROGRAMAN**
 
 Nama: Muhammad Rizqy Aulia
 
@@ -27,11 +27,13 @@ Fitur :
 
 - Cetak Laporan
 
+
 **PENGGUNAAN LOGIN**
 
 Username: admin
 
 Password: admin
+
 
 **PROGRAM ASLI**
 
@@ -124,4 +126,12 @@ Laporan Peminjaman Buku ~> Cetak Semua Buku
 
 - Contact
 ![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/f708f6b7-2bc0-4ed9-a926-b139fa02bf7e)
+
+
+- Logout
+![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/8d9b270a-0ae2-4ec1-9ba7-f0f95bd6b416)
+
+
+**PROGRAM TELAH DI MODIFIKASI**
+
 
