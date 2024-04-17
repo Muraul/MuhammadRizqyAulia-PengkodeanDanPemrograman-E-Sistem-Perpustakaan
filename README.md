@@ -230,6 +230,8 @@ Manage Users ~> Update User Information.
 
 
 - About.
+
+*Ini ada typo sedikit dibagian kelasnya, harusnya saya kelas E.
 ![image](https://github.com/Muraul/MuhammadRizqyAulia-PengkodeanDanPemrograman-E-Sistem-Perpustakaan/assets/167014376/e384fc0c-3772-4a8f-9cf6-7bccb1fad5d9)
 
 
